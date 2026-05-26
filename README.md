@@ -1,4 +1,5 @@
 # Data Migration From Microsoft Access To MySQL
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4c3d0c5d-dbb8-4489-9fb8-1216912db8ae" />
 
 This project is a command-line migration tool that reads tables from a Microsoft Access database file (`.accdb` or `.mdb`), analyzes the database, and migrates the data into a MySQL database.
 
